@@ -82,7 +82,50 @@ Seed admin:
 
 ## Next Phase
 
-Phase 3 should add AI insight generation, sentiment analysis, trend detection, RAG-based Q&A, event processing, monitoring, and production-grade security hardening.
+Phase 3 is for AI Insights + Scale + Full Production; so will add AI insight generation, sentiment analysis, trend detection, RAG-based Q&A, event processing, monitoring, and production-grade security hardening.
+
+Goal: make it smart, scalable, and enterprise-grade.
+
+Features to add :
+
+AI-generated survey summaries
+Sentiment analysis
+Theme/topic extraction from text answers
+Risk indicators
+Trend comparison across surveys
+Question-level insights
+Auto-generated executive summary
+RAG-based Q&A on survey responses
+Benchmarking reports
+Large scale response handling
+High availability deployment
+Monitoring and alerting
+Security hardening
+GDPR/data retention support
+
+Tech
+
+OpenAI API
+LangChain
+RAG pipelines
+PostgreSQL + vector search or separate vector DB if needed
+Redis for caching AI results
+Kafka for event-driven processing
+Docker + ECS/Kubernetes
+Terraform infrastructure
+CloudWatch/Prometheus/Grafana
+Bash/Python scripts for automation
+
+Main modules
+
+AI insight engine
+Sentiment analysis pipeline
+RAG Q&A module
+Event processing with Kafka
+Scalable analytics service
+Monitoring and observability
+Security/compliance layer
+Production deployment automation
 
 
 ## Current Structure
