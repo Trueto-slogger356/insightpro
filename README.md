@@ -87,7 +87,7 @@ Phase 3 is for AI Insights + Scale + Full Production; so will add AI insight gen
 Goal: make it smart, scalable, and enterprise-grade.
 
 Features to add :
-
+```
 AI-generated survey summaries
 Sentiment analysis
 Theme/topic extraction from text answers
@@ -126,7 +126,7 @@ Scalable analytics service
 Monitoring and observability
 Security/compliance layer
 Production deployment automation
-
+```
 
 ## Current Structure
 
