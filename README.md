@@ -2,7 +2,7 @@
 
 Customer experience and insights platform.
 
-This repository contains Phase 1 and Phase 2 implementation slices.
+This repository contains Phase 1 and Phase 2 implementation slices (and not Phase 3 yet. I'll do phase 3 as soon as i get some time free. Read below about phase 1/2/3).
 
 ## Phase 1 Scope
 
