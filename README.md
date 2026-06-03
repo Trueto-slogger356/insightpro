@@ -87,6 +87,7 @@ Phase 3 should add AI insight generation, sentiment analysis, trend detection, R
 
 ## Current Structure
 
+```
 ├── insightpro/                         # Root project folder for the customer survey insights platform
 │   ├── README.md                       # Project overview, setup steps, architecture notes, and usage guide
 │   ├── .env                            # Local environment variables for backend, database, Redis, S3, auth, etc.
@@ -164,3 +165,5 @@ Phase 3 should add AI insight generation, sentiment analysis, trend detection, R
 
 │   ├── scripts/                        # Utility scripts for local checks and automation
 │   │   └── run_checks.sh               # Script to run linting, tests, formatting, or basic health checks
+
+```
