@@ -82,7 +82,7 @@ Seed admin:
 - ECS: `infra/ecs/task-definition.json`
 - Terraform: `infra/terraform`
 
-## Next Phase
+## Next Phase - 3
 
 Phase 3 is for AI Insights + Scale + Full Production; so will add AI insight generation, sentiment analysis, trend detection, RAG-based Q&A, event processing, monitoring, and production-grade security hardening.
 
